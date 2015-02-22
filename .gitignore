@@ -1,0 +1,13 @@
+#this is a ignore file for cc2541 IAR project
+#ignore file of diretory Documents 
+Documnets/
+
+#ignore files of components/hal/target/cc2540USB
+components/hal/target/cc2540USB/
+
+#ignore all bin file
+*.bin
+
+#ignore file REAME 
+README
+
